@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaloInfinite_AutoFirewall", "HaloInfinite_AutoFirewall.csproj", "{0227A263-463B-4662-B163-F66B83432FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0227A263-463B-4662-B163-F66B83432FE2}.Release|x64.ActiveCfg = Release|x64
+		{0227A263-463B-4662-B163-F66B83432FE2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF707470-77B1-4709-9538-73E4AE789724}
+	EndGlobalSection
+EndGlobal
