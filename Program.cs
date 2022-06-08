@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using WindowsFirewallHelper;
 using System.Collections.Generic;
 
-namespace Auto_Recorder
+namespace AutoFirewall
 {
     class Program
     {

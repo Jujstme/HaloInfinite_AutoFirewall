@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Auto_Recorder
+namespace AutoFirewall
 {
     public partial class MainForm : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace Auto_Recorder
+﻿namespace AutoFirewall
 {
     partial class MainForm
     {
